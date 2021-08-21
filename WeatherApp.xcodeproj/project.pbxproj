@@ -11,6 +11,7 @@
 		6606366226CF983D00C04271 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6606366126CF983D00C04271 /* ContentView.swift */; };
 		6606366426CF984100C04271 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6606366326CF984100C04271 /* Assets.xcassets */; };
 		6606366726CF984100C04271 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6606366626CF984100C04271 /* Preview Assets.xcassets */; };
+		669D202226D1913700AF9492 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 669D202126D1913700AF9492 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6606366326CF984100C04271 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6606366626CF984100C04271 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6606366826CF984100C04271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		669D202126D1913700AF9492 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				6606365F26CF983D00C04271 /* WeatherAppApp.swift */,
 				6606366126CF983D00C04271 /* ContentView.swift */,
+				669D202126D1913700AF9492 /* WeatherButton.swift */,
 				6606366326CF984100C04271 /* Assets.xcassets */,
 				6606366826CF984100C04271 /* Info.plist */,
 				6606366526CF984100C04271 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				6606366226CF983D00C04271 /* ContentView.swift in Sources */,
 				6606366026CF983D00C04271 /* WeatherAppApp.swift in Sources */,
+				669D202226D1913700AF9492 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
